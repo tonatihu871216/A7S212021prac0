@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A7S212021prac0</string>
+    <string name="titulo">Programacion de Aplicacion</string>
+    <string name="ingnombre">Ingresa tu Nombre</string>
+    <string name="ingcontraseña">Contraseña</string>
+    <string name="presiona">Presiona para Mensaje</string>
+</resources>
